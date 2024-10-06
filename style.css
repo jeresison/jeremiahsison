@@ -1111,35 +1111,6 @@ transition: 0.3s ease;
                         width: 50vw;
                         margin-top: 1rem;
                         margin-bottom: 3rem;
-                        margin-left: 11rem;
-                    }
-                    .about-info, .about-icon{
-                        display: none;
-                    }  
-                    .about-content .btn{
-                        margin-left: 9rem;
-                    }
-                    .resume .container_resume{
-                        width: 125%;
-                        transform: translateX(1px);
-                    }
-                    .resume .container_resume span{
-                        margin-left: 8.5rem;
-                    }
-                    .margin .btn{
-                        margin-left: 13rem;
-                    }
-}
-                        @media(max-width:414px){
-                    .background-img1{
-                     
-                        background-size: 650px 850px ;
-                        overflow: hidden;
-                    }
-                    .about img{
-                        width: 50vw;
-                        margin-top: 1rem;
-                        margin-bottom: 3rem;
                         margin-left: 10rem;
                     }
                     .about-info, .about-icon{
@@ -1154,9 +1125,6 @@ transition: 0.3s ease;
                     }
                     .resume .container_resume span{
                         margin-left: 8.5rem;
-                    }
-                    .margin h2 {
-                        font-size: 28px;
                     }
                     .margin .btn{
                         margin-left: 13rem;
