@@ -152,6 +152,9 @@ span{
     background-repeat: no-repeat;
     background-size: 2200px 1250px ;
     background-position: right;
+	
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .home-content p{
